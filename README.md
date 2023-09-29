@@ -1,2 +1,3 @@
-# Blog_os_Vinhos
-EDA for the Blog os Vinhos data and rating prediction
+# Blog os Vinhos
+EDA for the Blog os Vinhos data and rating prediction.
+Data on Portuguese wines. Collected from Blog "OsVinhos": https://osvinhos.blogspot.com
